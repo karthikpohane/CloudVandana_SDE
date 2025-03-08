@@ -24,7 +24,7 @@ Create a **responsive profile card** using **HTML and CSS** that includes:
 - A hover effect with **CSS animations**  
 - The card should be **centered and responsive**  
 
-📌 **[Profile Card Code](profile-card/index.html)**  
+📌 **[Profile Card Code](https://karthikpohane.github.io/CloudVandana_SDE/profileCard/index.html)**  
 
 ---
 
@@ -40,7 +40,7 @@ Output: true
 Input: "hello", "world"
 Output: false
 ```
-📌 **[Anagram Check Code](anagram-check/AnagramCheck.java)**  
+📌 **[Anagram Check Code](https://github.com/karthikpohane/CloudVandana_SDE/tree/main/Java%20Assignment/Anagram%20Checker)**  
 
 ---
 
@@ -56,7 +56,7 @@ Design a Java class `Employee` with the following attributes:
 - Create at least **3 Employee objects**.  
 - Store them in a **list** and display their details.  
 
-📌 **[Employee Management Code](employee-management/EmployeeManagement.java)**  
+📌 **[Employee Management Code](https://github.com/karthikpohane/CloudVandana_SDE/tree/main/Java%20Assignment/Employee%20Management%20System)**  
 
 ---
 
@@ -67,7 +67,7 @@ Create a **dynamic to-do list** using **JavaScript and the DOM** with the follow
 - Display tasks in a list  
 - Remove tasks with a delete button  
 
-📌 **[To-Do List Code](todo-list/index.html)**  
+📌 **[To-Do List Code](https://karthikpohane.github.io/CloudVandana_SDE/todoList/index.html)**  
 
 ---
 
@@ -78,7 +78,7 @@ Build an **image slider** using **JavaScript and the DOM** that:
 - Has **Next** and **Previous** buttons to navigate  
 - Uses an **array of image URLs**  
 
-📌 **[Image Slider Code](image-slider/index.html)**  
+📌 **[Image Slider Code](https://karthikpohane.github.io/CloudVandana_SDE/imageSlider/index.html)**  
 
 ---
 
@@ -101,14 +101,15 @@ Build an **image slider** using **JavaScript and the DOM** that:
 ---
 
 ## **Screenshots**
-(Add screenshots of your projects in action for better visualization.)
+![image](https://github.com/user-attachments/assets/6bd8318c-7312-428f-bb73-a4feaec1b0f6)
+
 
 ---
 
 ## **Author**
-👤 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourname/)  
+👤 **Karthik Pohane**  
+📧 kartikpohane0612@gmail.com 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/karthikpohane/)  
 ```
 
 ### **How to Use This**

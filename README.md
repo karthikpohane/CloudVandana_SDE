@@ -111,10 +111,3 @@ Build an **image slider** using **JavaScript and the DOM** that:
 📧 kartikpohane0612@gmail.com 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/karthikpohane/)  
 ```
-
-### **How to Use This**
-- Save this as `README.md` in your repository.
-- Replace **"Your Name"** and **email** in the **Author** section.
-- Add **screenshots** in the README for better presentation.
-
-Let me know if you need any modifications! 🚀

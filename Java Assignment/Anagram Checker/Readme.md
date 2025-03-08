@@ -136,7 +136,8 @@ public class AnagramCheckHashed {
 5. Enter two strings when prompted and check the output.
 
 ## Screenshots
-(Add screenshots of program execution here)
+![image](https://github.com/user-attachments/assets/12d5632f-992a-46e7-a22d-68deddf92ba0)
+
 
 ## Conclusion
 - **Approach 1** (Sorting) is simpler but has a time complexity of O(n log n).

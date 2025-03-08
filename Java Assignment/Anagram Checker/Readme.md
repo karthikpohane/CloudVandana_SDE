@@ -1,17 +1,20 @@
-# Anagram Check Program
+# String Manipulation - Anagram Check
 
-This repository contains two Java implementations to check whether two given strings are anagrams of each other.
+Write a Java program that takes two strings as input and checks if they are anagrams (containing the same characters in a different order).
+
+### Example:
+
+**Input:** "listen", "silent"  
+**Output:** true  
+**Input:** "hello", "world"  
+**Output:** false  
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [Approach 1: Sorting Method](#approach-1-sorting-method)
 - [Approach 2: Optimized HashMap Method](#approach-2-optimized-hashmap-method)
 - [How to Run](#how-to-run)
 - [Screenshots](#screenshots)
 - [Conclusion](#conclusion)
-
-## Introduction
-An anagram is a word or phrase formed by rearranging the letters of another. For example, "listen" and "silent" are anagrams.
 
 ## Approach 1: Sorting Method
 This approach follows these steps:
@@ -136,7 +139,7 @@ public class AnagramCheckHashed {
 5. Enter two strings when prompted and check the output.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/12d5632f-992a-46e7-a22d-68deddf92ba0)
+![image](https://github.com/user-attachments/assets/c3f835a2-1f7d-4cda-8a29-5f70077cfcc1)
 
 
 ## Conclusion
